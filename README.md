@@ -1,6 +1,6 @@
 # ARBUTTON
 My first Button AR app using Unity and Vuforia <br>
-<img src="https://github.com/Alexart1995/ARBUTTON/blob/main/ARBut3.gif" width="320" height="320">
+<img src="https://github.com/Alexart1995/ARBUTTON/blob/main/ARBut3.gif" width="480" height="320">
 ## Description
 - Create Vuforia account and import Vuforia SDK
 - Create Vuforia databases
